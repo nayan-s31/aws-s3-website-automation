@@ -7,7 +7,7 @@ Instead of manually creating and configuring resources through the AWS Console, 
 
 ## Features
 #### Create an Amazon S3 bucket using Python
--Enable Static Website Hosting
+##### Enable Static Website Hosting
 -Upload website files (HTML and CSS)
 -Configure public access settings
 -Apply bucket policies for public website access
