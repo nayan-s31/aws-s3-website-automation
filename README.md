@@ -6,7 +6,7 @@ This project automates the deployment of a static website on Amazon S3 using Pyt
 Instead of manually creating and configuring resources through the AWS Console, the Python script performs the entire deployment process automatically.
 
 ## Features
-### Create an Amazon S3 bucket using Python
+#### Create an Amazon S3 bucket using Python
 -Enable Static Website Hosting
 -Upload website files (HTML and CSS)
 -Configure public access settings
